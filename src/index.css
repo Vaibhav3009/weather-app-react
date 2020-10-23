@@ -10,7 +10,7 @@ body{
 
 	font-family: 'monsteratt', sans-seriff;
 	height: 100%;
-	overflow: scroll;
+	overflow-y: hidden;
 
 }
 
@@ -22,8 +22,9 @@ body{
 -o-background-size: cover;
 background-size: cover;
 height: 100%; 
+width:100%;
 background-repeat: no-repeat;
-overflow: hidden;
+overflow-y: scroll;
 	background-position: bottom;
 	transition: 0.4s ease-out;
 }
@@ -36,8 +37,9 @@ background-repeat: no-repeat;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-height: 100%; 
-overflow: hidden;
+height: 100%;
+width:100%; 
+overflow-y: scroll;
 	background-position: bottom;
 	transition: 0.4s ease-out;
 }
