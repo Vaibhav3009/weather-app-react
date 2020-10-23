@@ -45,7 +45,7 @@ const dateBuilder=(d)=>{
     <input
     type="text"
     className="search-bar"
-    placeholder="Search..."
+    placeholder="Enter the location"
     onChange={(e)=> setQuery(e.target.value)}
     value={query}
     onKeyPress={search}
