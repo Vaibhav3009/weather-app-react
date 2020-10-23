@@ -28,7 +28,7 @@ overflow-y: scroll;
 	background-position: bottom;
 	transition: 0.4s ease-out;
 }
-.app.warm{
+.warmit{
 	
 background-image: url("./assets/warm-ig.webp");
 background-size: cover;
