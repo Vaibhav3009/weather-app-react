@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68934b6f9b5b127dd951a40a8108e1f2",
+    "revision": "e769d65df2e47f77aa424a756a2719a3",
     "url": "/weather-app-react/index.html"
   },
   {
-    "revision": "0286b8746ef809f6de7f",
-    "url": "/weather-app-react/static/css/main.39aaf51d.chunk.css"
+    "revision": "31e154cebc1465a71e95",
+    "url": "/weather-app-react/static/css/main.3b012c4b.chunk.css"
   },
   {
     "revision": "d4c4393621f736423818",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather-app-react/static/js/2.191b2a62.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0286b8746ef809f6de7f",
+    "revision": "31e154cebc1465a71e95",
     "url": "/weather-app-react/static/js/main.192ca854.chunk.js"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weather-app-react/static/js/runtime-main.4ee40ab0.js"
   },
   {
-    "revision": "8dbbafe44ab08d9b8b3283738b46ad83",
-    "url": "/weather-app-react/static/media/cold-ig.8dbbafe4.jpg"
+    "revision": "09bbf5157a946e4423c9f66e00eb18d9",
+    "url": "/weather-app-react/static/media/cold-ig.09bbf515.webp"
   },
   {
-    "revision": "548d6760a7ec509976f86f5e55d486c3",
-    "url": "/weather-app-react/static/media/warm-ig.548d6760.jpg"
+    "revision": "a053c88c90220aa4ab9c09a1a9b126a3",
+    "url": "/weather-app-react/static/media/warm-ig.a053c88c.webp"
   }
 ]);
