@@ -9,6 +9,8 @@
 body{
 
 	font-family: 'monsteratt', sans-seriff;
+	height: 100%;
+	overflow: scroll;
 
 }
 
@@ -20,6 +22,7 @@ body{
 -o-background-size: cover;
 background-size: cover;
 height: 100%; 
+background-repeat: no-repeat;
 overflow: hidden;
 	background-position: bottom;
 	transition: 0.4s ease-out;
@@ -28,6 +31,7 @@ overflow: hidden;
 	
 background-image: url("./assets/warm-ig.webp");
 background-size: cover;
+background-repeat: no-repeat;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
