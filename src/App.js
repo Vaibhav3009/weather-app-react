@@ -36,7 +36,7 @@ const dateBuilder=(d)=>{
 
   return (
 
-    <div className= {(typeof weather.main != "undefined") ? ((weather.main.temp > 16)
+    <div className= {(typeof weather.main != "undefined") ? ((weather.main.temp > 19)
       ?'app warm':'app')
       :'app'}
       >
