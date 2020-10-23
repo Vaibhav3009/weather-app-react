@@ -41,7 +41,7 @@ const dateBuilder=(d)=>{
       :'app'}
       >
     <main>
-    
+
     <div className="search-box">
     <input
     type="text"
