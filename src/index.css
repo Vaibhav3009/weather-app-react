@@ -20,6 +20,9 @@ body{
 }
 .app.warm{
 background-image:url("./assets/warm-ig.webp");
+background-size: cover;
+	background-position: bottom;
+	transition: 0.4s ease-out;
 }
 main{
 
